@@ -1,1 +1,1 @@
-
+This project implements a Logistic Regression model to predict whether a user will click on an advertisement based on their demographics and internet usage habits. The project includes extensive Exploratory Data Analysis (EDA) using Seaborn and Matplotlib, and achieves a high classification accuracy of 97%. Key features analyzed include Age, Area Income, and Daily Internet Usage.
